@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main -Prints using puts
@@ -10,6 +9,6 @@
  */
 int main(void)
 {
-	Puts("\"Programming is like buidling a multilingual puzzle");
+	puts("\"Programming is like buidling a multilingual puzzle");
 	return (0);
 }
