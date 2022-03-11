@@ -13,7 +13,7 @@ int main(void)
 	char low;
 	int d;
 
-	for (d = '0; d <= '9'; d++)
+	for (d = '0'; d <= '9'; d++)
 	{
 		putchar(d);
 	}
