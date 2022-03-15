@@ -1,6 +1,6 @@
 #include <unistd.h>
 #include "_putchar.h"
-
+#include <studio.h>
 /**
  * main - printing _putchar followed by new line
  * Description: No using inbult functions
