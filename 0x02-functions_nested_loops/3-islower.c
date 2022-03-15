@@ -6,7 +6,7 @@
  * Description: No using inbult functions
  * Return: 1 if lowercase. 0 if not
  */
-int _islower(int c);
+int _islower(int c)
 {
 	char i;
 	int lower = 0;
